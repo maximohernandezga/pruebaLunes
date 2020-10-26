@@ -10,3 +10,15 @@ C:\Users\IN2DAM\Desktop\lunes\obj\Debug\lunes.vbproj.CoreCompileInputs.cache
 C:\Users\IN2DAM\Desktop\lunes\obj\Debug\lunes.exe
 C:\Users\IN2DAM\Desktop\lunes\obj\Debug\lunes.xml
 C:\Users\IN2DAM\Desktop\lunes\obj\Debug\lunes.pdb
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\bin\Debug\lunes.exe.config
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\bin\Debug\lunes.exe
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\bin\Debug\lunes.pdb
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\bin\Debug\lunes.xml
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.vbprojAssemblyReference.cache
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.Form1.resources
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.Resources.resources
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.vbproj.GenerateResource.cache
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.vbproj.CoreCompileInputs.cache
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.exe
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.xml
+C:\Users\IN2DAM\Source\Repos\maximohernandezga\pruebaLunes\lunes\obj\Debug\lunes.pdb
